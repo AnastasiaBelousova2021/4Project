@@ -5,6 +5,8 @@ public class BranchingPractice {
          * Created new project
          * Enabled version control
          * Added .gitignore
+         *
+         * Added new branch
          */
     }
 }
