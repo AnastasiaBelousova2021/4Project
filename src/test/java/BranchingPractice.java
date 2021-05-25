@@ -7,6 +7,7 @@ public class BranchingPractice {
          * Added .gitignore
          *
          * Added new branch
+         * Added more notes
          */
     }
 }
